@@ -16,4 +16,4 @@ if everything works fine you will be presented with theb following UI <br>
 <img src="screenshots/ui.png" alt="ui" />
 
 
-## Made with ❤ by Avijeet using react :muscle:
+## Made with ❤ by Abednego Jilima using react :muscle:
