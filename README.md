@@ -6,12 +6,10 @@ Simple covid-19 tracker and visualizer made using reactjs(using Hooks) and javsc
 
 ### How build and run locally ?
 ```
-git clone github repository
+git clone the github repository
 cd covid-tracker
 npm install
 npm start
 ```
-
-
 
 ## Made with ❤ by Abednego Jilima using react :muscle:
